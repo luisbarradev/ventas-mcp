@@ -1,0 +1,3 @@
+FLOW_API_KEY=
+FLOW_SECRET_KEY=
+FLOW_API_URL=https://sandbox.flow.cl/api/payment
